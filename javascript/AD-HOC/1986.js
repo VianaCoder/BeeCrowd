@@ -1,3 +1,7 @@
+/*
+Exercise URL: https://www.beecrowd.com.br/judge/pt/problems/view/1986
+*/
+
 var input = "7\n73 6F 63 6F 72 72 6F" //Input
 var lines = input.split('\n')
 
